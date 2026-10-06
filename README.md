@@ -1,4 +1,5 @@
 # JKendrick
+Archived prototype (2022–2023). The current Java implementation of Kendrick is https://github.com/KendrickOrg/JKendrick
 
 ## How to install
 
